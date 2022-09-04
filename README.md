@@ -90,6 +90,17 @@ The [MODS Page](http://45.35.207.49:8270/mods.html?lang=en) is where you can vie
 To connect to the server, open Farming Simulator 2022 on our device.
 Click *Multiplayer*
 Click *Join Game*
+When the server list shows up, look the right and select the *Game Name* box, and type and hit enter when done.
+You can enter the server by double click on it.
+*You will be prompted for a password*
+Ask one of the other folks for that, and walla.
+
+*NOTE* Before DOUBLE Clicking to enter the game, click X for details and then you'll notice (I Think X Again) will allow you to download all the DLC's in use without doing them one at a time.
+
+```
+!!Bullyard
+```
+
 ### Adding Mods to Server
 
 Installing from your *Mobile* device required you to download the mod to your phone, upload to server, and finally restart the server.
