@@ -1,8 +1,22 @@
 # ffs22
 
 ## Quick Links
+Link Savegame Files
 
+* [All Active Mods](http://45.35.207.49:8270/mods.html)
+* [Career save game settings](http://45.35.207.49:8270/feed/dedicated-server-savegame.html?code=8kaC3SD3&file=careerSavegame)
+* [Available Vehicles](http://45.35.207.49:8270/feed/dedicated-server-savegame.html?code=8kaC3SD3&file=)
+* [Economy](http://45.35.207.49:8270/feed/dedicated-server-savegame.html?code=8kaC3SD3&file=)
 * [Farming Simulator 2022 Server Management webpage](https://www.g-portal.com/int/f_s2022/FS2022PCConfigurations/getWiLink/829384) *NOTE REQUIRES https://g-portal.com* account, and permissions assigned by Loudbinary
+
+## Managing Downloadable content
+
+* [Stop the Server](http://45.35.207.49:8270/index.html?lang=en)
+* [Select your mods](http://45.35.207.49:8270/mods.html?lang=en) via *New Mods*
+* [Activate your modes](http://45.35.207.49:8270/index.html?lang=en) via *Activate Mods&
+** *By Selecting with checkbox, clicking *ACTIVATE* - You can select multiples at once.
+* [Start the Server](http://45.35.207.49:8270/index.html?lang=en)
+* Open your game, and select server details, and downloading new downloadable content.
 
 Farming Simulator 2022 - Server management help
 
