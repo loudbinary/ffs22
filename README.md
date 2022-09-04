@@ -1,6 +1,19 @@
 # ffs22
 Farming Simulator 2022 - Server management help
 
+- [ffs22](#ffs22)
+  * [Current mod list](#current-mod-list)
+  * [Managing the server](#managing-the-server)
+  * [Connecting to Server](#connecting-to-server)
+    + [Adding Mods to Server](#adding-mods-to-server)
+    + [Uploading Mods](#uploading-mods)
+      - [Mobile Uploads](#mobile-uploads)
+      - [Filezilla Uploads](#filezilla-uploads)
+      - [Restarting services](#restarting-services)
+    + [Restarting Server](#restarting-server)
+    + [Changing Server setttings (map, password, mods, farm type, etc)](#changing-server-setttings--map--password--mods--farm-type--etc-)
+
+
 ## Current mod list
 
 ```bash
