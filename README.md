@@ -1,4 +1,9 @@
 # ffs22
+
+## Quick Links
+
+* [Farming Simulator 2022 Server Management webpage](https://www.g-portal.com/int/f_s2022/FS2022PCConfigurations/getWiLink/829384) *NOTE REQUIRES https://g-portal.com* account, and permissions assigned by Loudbinary
+
 Farming Simulator 2022 - Server management help
 
 - [ffs22](#ffs22)
