@@ -151,7 +151,13 @@ Then click upload.
 
 #### Restarting services
 
-To restart services to [HOME Page](http://45.35.207.49:8270/index.html?lang=en) and look for the RESTART Button, and click it, and a few seconds later it will be completed.  
+Before restarting, you need to active the mods you want enabled.
+At the [HOME Page](http://45.35.207.49:8270/index.html?lang=en), you must first STOP the server.
+Then on same page, click ALL Button at bottom to select all.  
+SAVE Settings
+Start server.
+Again all from the [HOME Page](http://45.35.207.49:8270/index.html?lang=en)
+
 You should now be able to see your new mod in the list on the [MODS Page](http://45.35.207.49:8270/mods.html?lang=en).
 
 ### Restarting Server
