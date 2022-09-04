@@ -45,20 +45,27 @@ Click *Multiplayer*
 
 Click *Join Game*
 
-When the server list shows up, look the right and select the *Game Name* box, and type and hit enter when done.
-
-You can enter the server by double click on it.
-
-*You will be prompted for a password*
-
-Ask one of the other folks for that, and walla.
+When the server list shows up, look the right and select the *Game Name* box, and type below filter and search
 
 ```
 !!Bullyard
 ```
 
-*NOTE* Before DOUBLE Clicking to enter the game, click X for details and then you'll notice (I Think X Again) will allow you to download all the DLC's in use without doing them one at a time.
+If you have all the DLC's, then you can enter the server by double clicking on it.
 
+If you do not have all the DLC's
+
+Click X for details and then you'll notice (I Think X Again) will prompted (look at bottom of screen) and you'll be allowed you to download all the DLC's in use without doing them one at a time.
+
+It'll ask do you want to add X Addons to Download queue.. Say yes. 
+
+No you wait until they finish.. by observing downloads in the Content Manager.
+
+Finally, with all the DLC's double click on the game to enter..
+
+*You will be prompted for a password*
+
+Ask one of the other folks for that, and walla.
 
 ### Adding Mods to Server
 
